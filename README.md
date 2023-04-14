@@ -1,5 +1,3 @@
-# WEEK-2-TASK-SQ012
-
 # Engineering Problems
 
 This repo contains the duplicate transactions problem you should be able to solve in a reasonable amount of time. It tests your understanding of JavaScript fundamentals.
